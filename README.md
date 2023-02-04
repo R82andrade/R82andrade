@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **R82andrade/R82andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<div align="between">
+    <a href="https://github.com/professorsoares">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R82andrade&theme=light&show_icons=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R82andrade&theme=light&show_icons=true&layout=compact"/>
+    </a>
+  </div>
