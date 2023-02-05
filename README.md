@@ -1,4 +1,4 @@
-### olá, meu nome é Rodrigo e sou professor de capoeira. Além de ensinar esse cultura brasileira,também estou em busca de novos conhecimentos e habilidades.Recentemente tenho me dedicado em aprender front-end e decidi criar esse perfil no github para compartilhar meus projetos e evolução na área.Estou animado para colaborar e aprender com a comunidade.Vamos juntos nesta jornada de crescimento e aprendizado!
+### olá, meu nome é Rodrigo e sou professor de capoeira. Além de ensinar esse cultura brasileira,também estou em busca de novos conhecimentos e habilidades. Recentemente tenho me dedicado em aprender front-end e decidi criar esse perfil no github para compartilhar meus projetos e evolução na área. Estou animado para colaborar e aprender com a comunidade.Vamos juntos nesta jornada de crescimento e aprendizado!
 
 **R82andrade/R82andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
