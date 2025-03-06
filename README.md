@@ -1,7 +1,9 @@
-###Olá, meu nome é Rodrigo e sou professor de capoeira. Além de ensinar essa rica cultura brasileira, estou fazendo faculdade de Análise e Desenvolvimento de Sistemas e me dedicando ao aprendizado de análise de dados e front-end. Para compartilhar meus projetos e meu progresso, criei este perfil no GitHub. Estou empolgado para colaborar e aprender com a comunidade. Vamos juntos nessa jornada de crescimento e aprendizado!
+👋 Olá, eu sou o Rodrigo!
+Bem-vindo(a) ao meu perfil do GitHub! �
 
+Sou professor de capoeira, uma arte que carrego no coração e que me ensinou muito sobre disciplina, resiliência e trabalho em equipe. Além de compartilhar essa rica cultura brasileira, estou mergulhando no universo da tecnologia como estudante de Análise e Desenvolvimento de Sistemas e explorando as áreas de análise de dados e front-end.
 
-
+Aqui no GitHub, você encontrará meus projetos, experimentos e o progresso da minha jornada de aprendizado. Estou sempre em busca de novos desafios e oportunidades para colaborar com a comunidade. Vamos crescer e aprender juntos!
 
 
 
